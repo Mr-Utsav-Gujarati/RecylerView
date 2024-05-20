@@ -1,6 +1,8 @@
 # RecylerView
 How to use RecylerView in android.
 
+How to highlight an image by clicking on it.
+
 Using androidx recyclerview.
 
 <androidx.recyclerview.widget.RecyclerView
@@ -10,4 +12,6 @@ Using androidx recyclerview.
         android:orientation="vertical">
         
  </androidx.recyclerview.widget.RecyclerView>
+
+ 
  
