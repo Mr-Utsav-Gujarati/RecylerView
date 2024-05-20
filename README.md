@@ -13,5 +13,13 @@ Using androidx recyclerview.
         
  </androidx.recyclerview.widget.RecyclerView>
 
+Click image to highlights.
+
+  if (holder.rlborder.getBackground() == null) {
+                holder.rlborder.setBackgroundResource(R.drawable.shap);
+            } else {
+                holder.rlborder.setBackground(null);
+            }
+
  
  
