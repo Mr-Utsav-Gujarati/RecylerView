@@ -1,6 +1,6 @@
 # RecylerView Java
-code by utsav
 How to use RecylerView in android.
+code by utsav
 
 How to highlight an image by clicking on it.
 
